@@ -2,6 +2,31 @@
 <search> 
   
   
+    
+    <entry>
+      <title>HEXO博客教程</title>
+      <link href="/xiaovv666/xiaovv/HEXO%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/"/>
+      <url>/xiaovv666/xiaovv/HEXO%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<div class="video-container"># 嵌入视频链接<iframe width="560" height="315" src="https://www.youtube.com/embed/lRccOXjsT1w?si=AY1m_2jwRcp41JG1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HEXO 博客 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
